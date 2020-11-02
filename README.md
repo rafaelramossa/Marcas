@@ -1,7 +1,7 @@
 # Readme
 
 ## Download
-git clone https://github.com/rafaelramossa/Marcas.git
+git clone https://github.com/rafaelramossa/python_sklearn_marcas.git
 
 ## Rodar `marcas.py`
 
